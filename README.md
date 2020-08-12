@@ -1,4 +1,5 @@
 DESCRIPTION:
+
 In this first small project, the task was to re-create Google's homepage with the basic knowledge of HTML and CSS learned.
 
 What I learned:
